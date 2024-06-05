@@ -63,7 +63,7 @@ const useFetchPoints = (fileName: string) => {
 
     const result = await response.json();
     if (result.dynamoUpdated === "ok") {
-      window.open("httpsm://flask-next-api.vercel.app/dynamo/data", "newwindow");
+      window.open(`${process.env.NEXT_PUBLIC_BACKEND_DEV_URL}/dynamo/data`, "newwindow");
     }
   };
 
