@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="192"
+   height="192"
+   viewBox="0 0 7.68 7.68"
+   fill="none"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="figma.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.5238151"
+     inkscape:cx="49.546693"
+     inkscape:cy="145.68697"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <g
+     id="g1647"
+     transform="matrix(0.192,0,0,0.192,1.536,0.42765674)"
+     style="stroke-width:5.20834">
+    <circle
+       style="opacity:1;fill:#323233;fill-opacity:1;stroke-width:0.0624999;stroke-linejoin:round;stop-color:#000000"
+       id="path297"
+       cx="12"
+       cy="17.772621"
+       r="20" />
+    <g
+       id="g1638"
+       transform="translate(-4.0000004,1.7726206)"
+       style="stroke-width:5.20834">
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 16,16 c 0,-2.2091 1.7909,-4 4,-4 2.2091,0 4,1.7909 4,4 0,2.2091 -1.7909,4 -4,4 -2.2091,0 -4,-1.7909 -4,-4 z"
+         fill="#1abcfe"
+         id="path2"
+         style="stroke-width:11.8863" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 8,24 c 0,-2.2091 1.79086,-4 4,-4 h 4 v 4 c 0,2.2091 -1.7909,4 -4,4 -2.20914,0 -4,-1.7909 -4,-4 z"
+         fill="#0acf83"
+         id="path4"
+         style="stroke-width:11.8863" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 16,4 v 8 h 4 c 2.2091,0 4,-1.7909 4,-4 0,-2.20914 -1.7909,-4 -4,-4 z"
+         fill="#ff7262"
+         id="path6"
+         style="stroke-width:11.8863" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 8,8 c 0,2.2091 1.79086,4 4,4 h 4 V 4 H 12 C 9.79086,4 8,5.79086 8,8 Z"
+         fill="#f24e1e"
+         id="path8"
+         style="stroke-width:11.8863" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 8,16 c 0,2.2091 1.79086,4 4,4 h 4 v -8 h -4 c -2.20914,0 -4,1.7909 -4,4 z"
+         fill="#a259ff"
+         id="path10"
+         style="stroke-width:11.8863" />
+    </g>
+  </g>
+</svg>
