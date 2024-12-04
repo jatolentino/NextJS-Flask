@@ -11,7 +11,6 @@
 		<em>Developed with the software and tools below.</em>
 </p>
 
-
 <p align="center">
     <img src="https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=Flask&logoColor=white" alt="Flask">
     <img src="https://img.shields.io/badge/NextJS-000000.svg?style=flat&logo=next.js&logoColor=white" alt="Next">
